@@ -1,6 +1,7 @@
 Heart Disease Prediction using Machine Learning
 
 This repository contains code for predicting the likelihood of heart disease using machine learning algorithms.
+
 Overview
 Heart disease is one of the leading causes of death worldwide. Early detection and accurate prediction of heart disease can significantly improve patient outcomes. This project aims to develop a machine learning model that can predict the presence of heart disease based on various medical attributes.
 
@@ -26,6 +27,7 @@ Run the Jupyter notebooks to explore data, train models, and evaluate performanc
 jupyter notebook
 
 Follow the instructions in the notebooks to preprocess data, train machine learning models, and evaluate their performance.
+
 Models
 
 This project implements various machine learning algorithms for heart disease prediction including:
